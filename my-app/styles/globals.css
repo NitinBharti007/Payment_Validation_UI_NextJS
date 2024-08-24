@@ -1,0 +1,11 @@
+/* styles/global.css */
+@import '../node_modules/h8k-design/dist/index.css';
+
+@media screen and (max-width: 650px) {
+  .hydrated {
+    width: fit-content !important;
+  }
+  .App {
+    width: fit-content !important;
+  }
+}
